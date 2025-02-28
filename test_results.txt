@@ -1,0 +1,8 @@
+Best Validation Accuracy: 0.0000 at epoch -1
+
+Test Metrics
+Loss: 1.3097
+Accuracy: 0.7949
+Precision: 0.7949
+Recall: 0.7949
+F1: 0.7949
