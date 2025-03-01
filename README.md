@@ -36,7 +36,8 @@ The project uses the Kaggle API to download the dataset. Set up your Kaggle API 
 3.  **Place kaggle.json in the ~/.kaggle/ directory (on Windows, this is typically C:\Users\<YourUsername>\.kaggle\).**
 4.  **Run the following commands to download and unzip the dataset:**
    ```bash
-    pip install torch torchvision torchmetrics matplotlib seaborn pandas numpy
+    kaggle datasets download paultimothymooney/chest-xray-pneumonia
+    unzip chest-xray-pneumonia.zip
    ```
 
 ## Optional: TensorBoard Setup
