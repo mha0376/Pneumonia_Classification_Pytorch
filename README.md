@@ -26,7 +26,7 @@ To run this project, you'll need Python 3.x installed. Follow these steps to set
 Install the required Python packages using pip:
 
   ```bash
-  pip install torch torchvision torchmetrics matplotlib seaborn pandas numpy
+  pip install torch torchvision torchmetrics matplotlib seaborn numpy
   ```
 
 ## Download the Dataset
