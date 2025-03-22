@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/7f6d461d-e8e6-4a85-aa6b-c04a56e13f29)
+![image (7)](https://github.com/user-attachments/assets/23344a3e-fb59-40c5-900c-dc7c336874ea)
 
 # Pneumonia Detection from Chest X-Ray Images
 
